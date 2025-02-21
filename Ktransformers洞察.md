@@ -45,7 +45,7 @@
 
 ## 社区运作方式
 
-- 代码仓库和版本控制： Ktransformers代码托管在[github](https://github.com/opencv)上，使用git做版本管理，社区成员在仓库中提交代码和PR，有reviewer进行代码review后合入代码。
+- 代码仓库和版本控制： Ktransformers代码托管在[github](https://github.com/opencv)上，使用git做版本管理，社区成员在仓库中提交代码和PR，由reviewer进行代码review后合入代码。
 - 讨论和沟通： Ktransformers社区目前主要通过github、微信群（[需扫码被邀请](https://github.com/kvcache-ai/ktransformers/blob/main/WeChatGroup.png)）进行技术沟通和讨论
 - 问题追踪和解决：Ktransformers使用github issue或者微信群反馈进行问题追踪
 
